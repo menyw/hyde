@@ -4,27 +4,14 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Better user experience will lead to happier customers. That's why I want to focus on front-end.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## About me
+Hi! I am Mengyue Wu from Carnegie Mellon University majoring in Master of Information Technology. I’m passionate about frond-end development, web design, UI and UX design. I am willing to communicate with others, discover their needs and design appropriate ways to solve problems.
 
-There are currently two themes built on Poole:
+For the frond-end programming languages, I’m familiar with JavaScript, HTML5, CSS3, and ReactJS. For the back-end, I’m acquainted with Java and Python.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I’m also self motivated and willing to take challenges.
 
 Thanks for reading!
