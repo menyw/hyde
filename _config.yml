@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Mengyue Wu
 tagline:          'Online portfolio'
-description:      'Persuing Master of Information Technology in Carnegie Mellon University'
+description:      'Persuing Master of Information Technology in <a href="https://www.cmu.edu">Carnegie Mellon University</a>'
 url:              https://menyw.github.io/
 baseurl:          '/'
 
