@@ -14,4 +14,7 @@ For the frond-end programming languages, I’m familiar with JavaScript, HTML5, 
 
 I’m also self motivated and willing to take challenges.
 
+## What I hope to learn
+There are many people in the world, and there are many different opinions and personalities. I hope to learn different ways of data visualization for different groups of people. I think that by showing the data to people in the most appropriate way, they can be fascinated and believe the stories I am telling.
+
 Thanks for reading!
