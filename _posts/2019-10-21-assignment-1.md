@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Data visualization works
+title: Data visualization 1
 ---
-Blank for now.
+This is blank for now.
