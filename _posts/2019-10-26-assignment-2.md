@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data viusalization 2
+title: Welcome!
 ---
 
-This is blank for now.
+Hi, I am Mengyue Wu. Welcome to my online portfolio. I will post my data visualization works in this website. 
