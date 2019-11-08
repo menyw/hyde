@@ -35,3 +35,35 @@ Also, when they were doing the review, I noticed that they were both struggling 
 -	Reduce the colors.
 
 The graph below was my first prototype of the data visualization. I followed the critique method and create this visualization to show the data in a clearer way. I used a bullet graph to show the net cost and salary simultaneously.
+
+![prototype1](TSWD_AS3_pics/prototype1.png)
+
+I also created another two visualizations as candidates.
+
+![prototype1](TSWD_AS3_pics/prototype1.png)
+![prototype2](TSWD_AS3_pics/prototype2.png)
+![prototype3](TSWD_AS3_pics/prototype3.png)
+
+In those two visualizations, I wanted to focus on those schools that were worthwhile since the graduates from those schools would have higher salaries. From the scatter plot, I tried to find the correlation between the cost and the salary. Unfortunately, there seemed to be no correlation. I also used color to indicate the type of the school, which could guide the audience to the insight that private schools usually had higher costs. 
+
+I brought those visualizations and met my friend again to get more feedback on them. I asked same questions as before and here’s the summary of the feedbacks:
+-	If I was a student who want to select schools, I would say the bullet graph will be more effective.
+-	There was only few information on the scatter plot and the map. They were not informative.
+-	I would change the color of the bullet graph to make the contrast of the colors bigger.
+
+To conclude, I would keep the bullet graph as my chart type. And change the color of the bullet graph.
+
+This was the final version of the visualization.
+
+![final](TSWD_AS3_pics/final.png)
+
+Source: https://www.forbes.com/top-colleges/#5ddc85211987
+
+The bullet graph showed the graduates’ salary and the net cost of the best college in each state. From the chart, we could see that the graduates from Stanford University in CA got the highest salary in US in 2019. Also, the cost of Stanford University was relatively acceptable compared to others. We could conclude that Stanford University would be a wise choice. Although the graduates from Duke University got a high average early career salary, the cost of studying at this school cannot be underestimated. When choosing a school, people should not only pay attention to the average early career salary, but also the cost of attending the school. Many people thought that the higher the salary of graduates, the higher the cost. However, through this visualization, we cannot make such a conclusion. For example, U.S. Air Force Academy, which ranks second in salary, allowed graduates to get high pay without spending any money.
+
+The reason why I used bullet graph was that bullet graph seemed to be a simple chart that everyone was familiar with. It would be much easier for students and parents to get information from the visualization. Because it was much like a bar chart, it was easy to understand, but it had more information than a bar chart. In general, the bullet graph was a simple and informative chart. In addition, bullet graph could enable the audience to compare among the schools using both the costs and salaries.
+
+My visualization was completely different from the original one. Since I knew that the audience of this chart would be those students and parents who were selecting schools, I attempted to give them more useful information on this chart. In the original chart, audience could hardly make the comparison among schools. In my chart, they could not only see the comparison, but also see the ratio between net cost and salary, which could help those audiences who care about school expenses to choose the school more wisely.
+
+
+
