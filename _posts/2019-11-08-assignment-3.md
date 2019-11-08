@@ -10,7 +10,7 @@ Inspired by the critique method, I realized that the visualization was not well 
 
 The picture below was my first wireframe. I tried to use the overlapping bar charts to represent the salary and expenses of the graduates. I showed this wireframe to my friends and made some notes that needed to be changed on the graph.
 
-![wireframe](wireframe.png)
+![wireframe](TSWD_AS3_pics/wireframe.png)
 
 I asked the following questions to my friends.
 -	Can you tell me what you think this is?
