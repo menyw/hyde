@@ -40,7 +40,6 @@ The graph below was my first prototype of the data visualization. I followed the
 
 I also created another two visualizations as candidates.
 
-![prototype1](TSWD_AS3_pics/prototype1.png)
 ![prototype2](TSWD_AS3_pics/prototype2.png)
 ![prototype3](TSWD_AS3_pics/prototype3.png)
 
