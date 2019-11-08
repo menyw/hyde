@@ -48,7 +48,7 @@ In those two visualizations, I wanted to focus on those schools that were worthw
 I brought those visualizations and met my friend again to get more feedback on them. I asked same questions as before and here’s the summary of the feedbacks:
 -	If I was a student who want to select schools, I would say the bullet graph will be more effective.
 -	There was only few information on the scatter plot and the map. They were not informative.
--	I would change the color of the bullet graph to make the contrast of the colors bigger.
+-	I would change the color of the bullet graph to make the contrast of the colors bigger. I would choose a light green since the high salary was a positive thing for graduates. Green could represent positive things.
 
 To conclude, I would keep the bullet graph as my chart type. And change the color of the bullet graph.
 
