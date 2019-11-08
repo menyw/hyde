@@ -15,17 +15,17 @@ The picture below was my first wireframe. I tried to use the overlapping bar cha
 I asked the following questions to my friends.
 -	Can you tell me what you think this is?
     - A: The correlation between the net price and average salary?
-     - B: Which school graduates can get the highest salary?
+    - B: Which school graduates can get the highest salary?
 -	Can you describe to me what this is telling you?
     - Both: Those graduates from Stanford in CA got the highest salaries.
 -	Is there anything you find surprising or confusing?
-  - Both: U.S. Air Force Academy doesn’t require any tuition fee?
-  - A: What is net price? What does the average early career salary mean?
+    - Both: U.S. Air Force Academy doesn’t require any tuition fee?
+    - A: What is net price? What does the average early career salary mean?
 -	Who do you think is the intended audience for this?
-  - Both: Students who want to select schools.
+    - Both: Students who want to select schools.
 -	Is there anything you would change or do differently?
-  - A: I will show the unit of y-axis more clearly.
-  - B: I might change the color.
+    - A: I will show the unit of y-axis more clearly.
+    - B: I might change the color.
 
 Also, when they were doing the review, I noticed that they were both struggling with observing the x-axis. To conclude, the change I would make to the visualization were:
 -	Add a clear title.
