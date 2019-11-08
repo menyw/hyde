@@ -14,10 +14,10 @@ The picture below was my first wireframe. I tried to use the overlapping bar cha
 
 I asked the following questions to my friends.
 -	Can you tell me what you think this is?
-  - A: The correlation between the net price and average salary?
-  - B: Which school graduates can get the highest salary?
+    - A: The correlation between the net price and average salary?
+     - B: Which school graduates can get the highest salary?
 -	Can you describe to me what this is telling you?
-  - Both: Those graduates from Stanford in CA got the highest salaries.
+    - Both: Those graduates from Stanford in CA got the highest salaries.
 -	Is there anything you find surprising or confusing?
   - Both: U.S. Air Force Academy doesn’t require any tuition fee?
   - A: What is net price? What does the average early career salary mean?
