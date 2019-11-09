@@ -10,7 +10,7 @@ Inspired by the critique method, I realized that the visualization was not well 
 
 The picture below was my first wireframe. I tried to use the overlapping bar charts to represent the salary and expenses of the graduates. I showed this wireframe to my friends and made some notes that needed to be changed on the graph.
 
-![wireframe](wireframe.png)
+![wireframe](https://menyw.github.io/wireframe.png)
 
 I asked the following questions to my friends.
 -	Can you tell me what you think this is?
@@ -36,12 +36,12 @@ Also, when they were doing the review, I noticed that they were both struggling 
 
 The graph below was my first prototype of the data visualization. I followed the critique method and create this visualization to show the data in a clearer way. I used a bullet graph to show the net cost and salary simultaneously.
 
-![prototype1](prototype1.png)
+![prototype1](https://menyw.github.io/prototype1.png)
 
 I also created another two visualizations as candidates.
 
-![prototype2](prototype2.png)
-![prototype3](prototype3.png)
+![prototype2](https://menyw.github.io/prototype2.png)
+![prototype3](https://menyw.github.io/prototype3.png)
 
 In those two visualizations, I wanted to focus on those schools that were worthwhile since the graduates from those schools would have higher salaries. From the scatter plot, I tried to find the correlation between the cost and the salary. Unfortunately, there seemed to be no correlation. I also used color to indicate the type of the school, which could guide the audience to the insight that private schools usually had higher costs. 
 
