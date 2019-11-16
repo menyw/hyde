@@ -10,12 +10,12 @@ Setup: Many cats and dogs were sent to shelters every year for difference reason
 Conflict: People are more inclined to use other methods than adoption to get pets. Pets in shelters has different outcomes. Some of those pets were euthanized.
 Resolution: Euthanized rate was declined in recent years due to the increase of adoption rate.
 
-![arc](arc.png)
+![arc](https://menyw.github.io/arc.png)
 
 The data shows that many animals are admitted to shelters every year. When the audience sees it, the mood will be calm, because I am just telling the truth. However, in today's society, many people still choose to buy breeding pets. Audience might feel a little sad since although many pets are sent to shelters every year, there are still people who choose to buy pets. Some pets are euthanized for various reasons. At this point, the audience will feel very sad, and some animals will lose their lives because of people’s lack of attention to adoption. Nevertheless, according to the historical data, we can find that the euthanized rate has declined a lot due to increase of adoption rate. At this point, the audience will feel delighted and know adoption is the best way to get a new pet. At the end of the story, I will give some suggestions about how to contribute to animal adoption. If you cannot adopt an animal due to several reasons, you can choose to donate. Or, at lease, respect and don’t hurt or discard any animals. The anticipated call to action is adoption instead of buying. 
 
 # Sketches
-![sketches](sketches.png)
+![sketches](https://menyw.github.io/sketches.png)
 
 # Data
 
