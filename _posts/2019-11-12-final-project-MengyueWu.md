@@ -9,7 +9,9 @@ According to the story structure in the Good Charts book, I will divide my story
 Setup: Many cats and dogs were sent to shelters every year for difference reasons.
 Conflict: People are more inclined to use other methods than adoption to get pets. Pets in shelters has different outcomes. Some of those pets were euthanized.
 Resolution: Euthanized rate was declined in recent years due to the increase of adoption rate.
-![arc]() 
+
+![arc]()
+
 The data shows that many animals are admitted to shelters every year. When the audience sees it, the mood will be calm, because I am just telling the truth. However, in today's society, many people still choose to buy breeding pets. Audience might feel a little sad since although many pets are sent to shelters every year, there are still people who choose to buy pets. Some pets are euthanized for various reasons. At this point, the audience will feel very sad, and some animals will lose their lives because of people’s lack of attention to adoption. Nevertheless, according to the historical data, we can find that the euthanized rate has declined a lot due to increase of adoption rate. At this point, the audience will feel delighted and know adoption is the best way to get a new pet. At the end of the story, I will give some suggestions about how to contribute to animal adoption. If you cannot adopt an animal due to several reasons, you can choose to donate. Or, at lease, respect and don’t hurt or discard any animals. The anticipated call to action is adoption instead of buying. 
 
 # Sketches
@@ -25,7 +27,9 @@ According to the data from Shelter Animals Count, the proportion of animals euth
 
 ## Data source links:
 [1]"Pet Statistics", ASPCA. [Online]. Available: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics. [Accessed: 15- Nov- 2019].
+
 [2]"Shelter Animals Count | Explore the Data | Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: 15- Nov- 2019].
+
 [3]"Lifesaving statistics", Animal Humane Society, 2019. [Online]. Available: https://www.animalhumanesociety.org/about/lifesaving-statistics. [Accessed: 15- Nov- 2019].
 
 # Method and medium
