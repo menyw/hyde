@@ -28,7 +28,7 @@ According to the data from Shelter Animals Count, the proportion of animals euth
 ## Data source links:
 [1]"Pet Statistics", ASPCA. [Online]. Available: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics. [Accessed: 15- Nov- 2019].
 
-[2]"Shelter Animals Count | Explore the Data | Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: 15- Nov- 2019].
+[2]"Shelter Animals Count \| Explore the Data \| Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: 15- Nov- 2019].
 
 [3]"Lifesaving statistics", Animal Humane Society, 2019. [Online]. Available: https://www.animalhumanesociety.org/about/lifesaving-statistics. [Accessed: 15- Nov- 2019].
 
