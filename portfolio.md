@@ -6,3 +6,4 @@ title: Portfolio
 
 [Critique by Design](https://menyw.github.io/2019/11/08/assignment-3/)
 
+[Final Project](https://menyw.github.io/2019/11/12/final-project-MengyueWu/)
