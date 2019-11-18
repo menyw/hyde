@@ -6,8 +6,11 @@ title: Final Project
 
 In my data visualization final project, I will appeal to people to adopt instead of buying through the visualization of status quo of animal adoption.
 According to the story structure in the Good Charts book, I will divide my story into three parts: setup, conflict, and resolution. 
+
 Setup: Many cats and dogs were sent to shelters every year for difference reasons.
+
 Conflict: People are more inclined to use other methods than adoption to get pets. Pets in shelters has different outcomes. Some of those pets were euthanized.
+
 Resolution: Euthanized rate was declined in recent years due to the increase of adoption rate.
 
 ![arc](https://menyw.github.io/arc.png)
