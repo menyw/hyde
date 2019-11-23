@@ -15,13 +15,14 @@ Because of the universality of my story, everyone can be the audience of my stor
 Those who just want to raise a dog will be reminded by my story to adopt a dog instead of buying a breeding dog. Those who don't want to raise a dog may go to the shelter agency to help the stray animals after reading my story.
 
 ## Goals / Questions
-*Goals*|*Questions*
-Evaluate the engagement of the story. | Are those picture or icon there appropriate?
-Evaluate the usefulness and completeness of the visualization. | Can people get enough useful and relevant information from the visualization?
-Evaluate the perceptibility of the visualization. | Do people feel the visualization clear and easy to understand?
-Evaluate the intuitiveness of the visualization. | Can people who saw this visualization for the first time know what the it is doing? (What confused the person, if any?)
-Evaluate the aesthetics and engagement of the visualization. | Do people think the graph is beautiful and engaged?
-Evaluate the logic of story. | Do people feel comfortable about the logic of the whole story?
+|Goals|Questions|
+|-----|---------|
+|Evaluate the engagement of the story. | Are those picture or icon there appropriate?|
+|Evaluate the usefulness and completeness of the visualization. | Can people get enough useful and relevant information from the visualization?|
+|Evaluate the perceptibility of the visualization. | Do people feel the visualization clear and easy to understand?|
+|Evaluate the intuitiveness of the visualization. | Can people who saw this visualization for the first time know what the it is doing? (What confused the person, if any?)|
+|Evaluate the aesthetics and engagement of the visualization. | Do people think the graph is beautiful and engaged?|
+|Evaluate the logic of story. | Do people feel comfortable about the logic of the whole story?|
 
 ## Background
 Every year, many animals are sent to shelters for different reasons. However, people tend to buy breeding dogs when they raise dogs. I want to use this story to appeal to people to adopt instead of buying.
