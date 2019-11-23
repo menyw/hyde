@@ -4,10 +4,10 @@ title: Final Project - Part 2
 ---
 
 # Storyboard
-![s1](https://menyw.giyhub.io/s1.png)
-![s2](https://menyw.giyhub.io/s2.png)
-![s3](https://menyw.giyhub.io/s3.png)
-![s4](https://menyw.giyhub.io/s4.png)
+![s1](https://menyw.github.io/s1.png)
+![s2](https://menyw.github.io/s2.png)
+![s3](https://menyw.github.io/s3.png)
+![s4](https://menyw.github.io/s4.png)
 
 # Research protocol
 ## Target Audience
