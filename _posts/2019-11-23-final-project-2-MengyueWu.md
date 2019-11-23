@@ -114,6 +114,12 @@ Negative:
 - Add the recommended approaches at the end of the story.
 - Make the theme of visualizations consistent.
 
+# Revised storyboard
+![sr1](https://menyw.github.io/sr1.png)
+![sr2](https://menyw.github.io/sr2.png)
+![sr3](https://menyw.github.io/sr3.png)
+![sr4](https://menyw.github.io/sr4.png)
+
 
 
 
