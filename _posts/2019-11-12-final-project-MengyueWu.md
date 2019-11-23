@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project
+title: Final Project - Part 1
 ---
 # Outline
 
