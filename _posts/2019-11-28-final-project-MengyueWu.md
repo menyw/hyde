@@ -165,4 +165,7 @@ Negative:
 
 # Part III
 ## Intended audience
+My intended audience is everyone. According to my topic, people can be divided into three groups: people who want to raise a pet in the near future, people who like animals but are not willing to raise any, and people who hold a neutral feeling to animals. I intend to let people either choose to adopt an animal or donate to those organizations that help animals. 
+
+## Works
 
