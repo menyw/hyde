@@ -168,4 +168,22 @@ Negative:
 My intended audience is everyone. According to my topic, people can be divided into three groups: people who want to raise a pet in the near future, people who like animals but are not willing to raise any, and people who hold a neutral feeling to animals. I intend to let people either choose to adopt an animal or donate to those organizations that help animals. 
 
 ## Works
+So far, in the process of doing this final project, I could feel that as my understanding of the target audience deepens, the project itself was improved a lot. 
+At first, I just had a general idea of what I would do in the project. After outlining the story out, I got a clear logic of the story. Sketches made the story from text to visual graphs, which also made me step into the design process. According to the sketches drawn by hand, I created my very first digital storyboard to show to some people for feedback. I generated a user research protocol before I conducted user research interview. The research plan helped me a lot during the interview. I got really useful feedback from the interviewees. Initially, I planned to do some fancy graphs so I used different colors and themes. I actually got negative feedback in terms of the theme consistency. Thus, I decided to change the theme color and the visualization type according to the feedback. 
+In addtion, deciding what kind of data visualization should be included in the story bothered me a lot. There were a lot of data sources, it was hard for me to pick those related to my story. Again, the feedback from the interview helped me to include those information that audience want to know, and discard the redundant information. I learnt that the audience's feedback is very important, they could often see things I can't find out and give suggestions accordingly.
+
+## Final project link
+[Click here](https://carnegiemellon.shorthandstories.com/adoptme/index.html) to view my final project.
+
+## Reference
+### Data source
+[1]"Pet Statistics", ASPCA. [Online]. Available: https://www.aspca.org/animal-homelessness/shelter-intake-and-surrender/pet-statistics. [Accessed: 15- Nov- 2019].
+
+[2]"Shelter Animals Count \| Explore the Data \| Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: 15- Nov- 2019].
+
+[3]"Lifesaving statistics", Animal Humane Society, 2019. [Online]. Available: https://www.animalhumanesociety.org/about/lifesaving-statistics. [Accessed: 15- Nov- 2019].
+### Image source
+[Pixabay](https://pixabay.com/)
+[Pexels](https://www.pexels.com/)
+
 
