@@ -5,7 +5,7 @@ title: Final Project
 
 # Part I
 
-## Outline
+## Outline and high-level summary
 
 In my data visualization final project, I will appeal to people to adopt instead of buying through the visualization of status quo of animal adoption.
 According to the story structure in the Good Charts book, I will divide my story into three parts: setup, conflict, and resolution. 
@@ -164,4 +164,5 @@ Negative:
 ![sr4](https://menyw.github.io/sr4.png)
 
 # Part III
+## Intended audience
 
