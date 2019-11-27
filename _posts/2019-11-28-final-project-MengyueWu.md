@@ -182,6 +182,9 @@ In addtion, deciding what kind of data visualization should be included in the s
 [2]"Shelter Animals Count \| Explore the Data \| Timeline", Shelteranimalscount.org, 2019. [Online]. Available: https://shelteranimalscount.org/data/Explore-the-Data/explore-the-data-timeline. [Accessed: 15- Nov- 2019].
 
 [3]"Lifesaving statistics", Animal Humane Society, 2019. [Online]. Available: https://www.animalhumanesociety.org/about/lifesaving-statistics. [Accessed: 15- Nov- 2019].
+
+[4]"2019-2020 APPA National Pet Owners Survey", American Pet Products Association. [Online]. Available: https://www.americanpetproducts.org/pubs_survey.asp. [Accessed: 27- Nov- 2019].
+
 ### Image source
 [Pixabay](https://pixabay.com/)
 [Pexels](https://www.pexels.com/)
