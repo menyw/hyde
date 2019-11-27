@@ -186,7 +186,9 @@ In addtion, deciding what kind of data visualization should be included in the s
 [4]"2019-2020 APPA National Pet Owners Survey", American Pet Products Association. [Online]. Available: https://www.americanpetproducts.org/pubs_survey.asp. [Accessed: 27- Nov- 2019].
 
 ### Image source
+
 [Pixabay](https://pixabay.com/)
+
 [Pexels](https://www.pexels.com/)
 
 
