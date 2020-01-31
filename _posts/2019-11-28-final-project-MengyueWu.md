@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Final Project
+title: Data Visualization Project
 ---
 
 # Part I
